@@ -1,2 +1,2 @@
 # assignmentpython.mycaptain
-First two assignments
+Assignments
